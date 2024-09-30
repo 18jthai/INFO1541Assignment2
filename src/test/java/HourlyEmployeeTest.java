@@ -1,6 +1,5 @@
 import org.junit.jupiter.api.Test;
 import EmployeeObjects.HourlyEmployee;
-
 import static org.junit.jupiter.api.Assertions.*;
 
 class HourlyEmployeeTest {
